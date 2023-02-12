@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Fuzzy Electric</string>
+    <string name="app_header">SPOT-electricity prices in Finland</string>
+
+
+    <string name="loading_failed">failed to load data</string>
+    <string name="retry">try again</string>
+    <string name="loading">loading...</string>
+
+
+    <string name="show_less">Show less</string>
+    <string name="show_more">Show more</string>
+    <string name="week_view">Week</string>
+
+
+    <string name="return_button">Return</string>
+
+
+</resources>
